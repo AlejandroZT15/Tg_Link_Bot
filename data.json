@@ -1,0 +1,30 @@
+{
+  "channel_username": "@UtilsLinks1",
+  "indice_message_id": null,
+  "categorias": {
+    "Diseño": {
+      "message_id": null,
+      "links": []
+    },
+    "Librerías": {
+      "message_id": null,
+      "links": []
+    },
+    "Videos": {
+      "message_id": null,
+      "links": []
+    },
+    "Cursos": {
+      "message_id": null,
+      "links": []
+    },
+    "Git / herramientas": {
+      "message_id": null,
+      "links": []
+    },
+    "IA": {
+      "message_id": null,
+      "links": []
+    }
+  }
+}
