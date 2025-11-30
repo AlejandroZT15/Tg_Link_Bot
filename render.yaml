@@ -1,0 +1,10 @@
+services:
+  - name: telegram-resource-bot
+    type: worker
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python bot.py"
+    envVars:
+      - key: TG_BOT_TOKEN
+        sync: false
